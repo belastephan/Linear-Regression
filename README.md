@@ -10,11 +10,9 @@ Completed.
 
 Este projeto tem como objetivo prever valores de novos diamantes. 
 
-Esta previsão é realizada através da análise exploratória de dados e utilizando conceitos de regressão linear com base em dados de valores históricos de diamantes.
+Esta previsão foi realizada através da análise exploratória de dados e utilizando conceitos de regressão linear com base em dados de valores históricos de diamantes.
 
-O site retorna o RMSE que relacionao quanto esta-se aerrando em dólares.
-
-E o objetivo final é o de errar menos de 900 dolares.
+O site retorna o RMSE que relacionao quanto esta-se errando em dólares. E o objetivo final é o de errar menos de 900 dolares.
 
 ## Conclusion
 
