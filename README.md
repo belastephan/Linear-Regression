@@ -1,6 +1,6 @@
 # Linear Regression
 
-<img src="https://tse3.mm.bing.net/th?id=OIP.MyN-7gobSbPiDqXMo0WcBgHaED&pid=Api&P=0&w=315&h=173"  width="500" height="250">
+<img src="https://tse3.mm.bing.net/th?id=OIP.MyN-7gobSbPiDqXMo0WcBgHaED&pid=Api&P=0&w=315&h=173"  width="400" height="200">
  
 ## Project Status:
 
