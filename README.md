@@ -4,29 +4,26 @@
 
 ## Project Status:
 
-In progress
+Completed.
 
 ## Project Description
 
-Para o desenvolvimento deste projeto foi necessário inicialmente a leitura dos arquivos e uma analise exploratória dos mesmos do ponto de vista de 
+Este projeto tem como objetivo prever valores de novos diamantes. 
 
-## Steps
+Esta previsão é realizada através da análise exploratória de dados e utilizando conceitos de regressão linear com base em dados de valores históricos de diamantes.
 
-Tinhamos os dados dos valores de diamantes que tinhamos no passado para prever o preco de bvendas dos novos diamnetes
+O site retorna o RMSE que relacionao quanto esta-se aerrando em dólares.
 
-Para
+E o objetivo final é o de errar menos de 900 dolares.
 
-O site retornava RMSE que relacionava o qunato estava a=errando em dolares.
+## Conclusion
 
-E o objetivo final era errar menos de 900 dolares
+Foram obtidos 2 insights com o modelo de regressão linear realizado:
 
-Foi utilizado a regressão linear para obter 2 insights :
+1) as variáveis de preço e quilates não possuem uma relação linear entre elas, mas sim, uma relação logaritmica
 
-1) preco e quilates nao tem relação linear mas sim relação logaritmica
-
-2) Era necessario separar os diamantes por categoria (variavel utilizada: claridade)
-
-## Steps
+2) é necessário a separação dos diamantes por categoria (variável utilizada: claridade)
 
 ## Thanks
+
 Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
