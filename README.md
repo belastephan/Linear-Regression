@@ -8,19 +8,19 @@ Completed.
 
 ## Project Description
 
-Este projeto tem como objetivo prever valores de novos diamantes. 
+The aim of this project is to predict the price of new diamonds.
 
-Esta previsão foi realizada através da análise exploratória de dados e utilizando conceitos de regressão linear com base em dados de valores históricos de diamantes.
+This prediction was accomplished through a data exploration analysis, using linear regression concepts based on historical diamond prices.
 
-O site retorna o RMSE que relacionao quanto esta-se errando em dólares. E o objetivo final é o de errar menos de 900 dolares.
+The site returns the RMSE (root mean squared error) that means how much it represented in dollars. And the final goal is to have an RMSE lower than 900 dollars.
 
 ## Conclusion
 
-Foram obtidos 2 insights com o modelo de regressão linear realizado:
+It was conclued that:
 
-1) as variáveis de preço e quilates não possuem uma relação linear entre elas, mas sim, uma relação logaritmica
+- price and carat variables don't have a linear relation between them, but a logarithmic relationship instead.
 
-2) é necessário a separação dos diamantes por categoria (variável utilizada: claridade)
+- diamonds must be separeted by category (used variable: clarity).
 
 ## Thanks
 
